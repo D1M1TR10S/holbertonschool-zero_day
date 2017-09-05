@@ -1,0 +1,1 @@
+Add Ubuntu to box list by entering $ vagrant box add ubuntu/trusty64 > Make your first virtual machine by entering $ vagrant init ubuntu/trusty64. This generates a Vagrantfile with base = "ubuntu/trusty64" > Enter $ vagrant up into the command line to open up the virtual machine. > Plug in $ vagrant ssh to go inside of the virtual machine.
